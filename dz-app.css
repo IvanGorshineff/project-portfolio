@@ -28,7 +28,7 @@ a {
   margin-bottom: 50px;
 }
 .container {
-  max-width: 1200px;
+  max-width: 1250px;
   /* padding: 10px; */
   margin: 0 auto;
 }
@@ -77,7 +77,7 @@ a {
   border: none;
   background-color: rgb(240, 171, 41);
   text-transform: uppercase;
-  margin-right: 260px;
+  margin-right: 370px;
 }
 
 
@@ -95,9 +95,23 @@ a {
   border-radius: 40px;
 }
 
-.header__img {
+.header__img img{
+  /* background-image: url(images1/MicrosoftTeams-image\ \(5\).png);
+  background-size: cover;
+  background-position: center;
   max-width: 500px;
+  background-repeat: no-repeat; */
+  max-height: 700px;
+  max-width: 500px;
+  align-items: center;
+ 
 }
+
+.header__img{
+align-items: center;
+justify-content: center;
+}
+
 
 .header__btn:hover {
   color: rgb(240, 171, 41);
