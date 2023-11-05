@@ -29,7 +29,7 @@ a {
 }
 .container {
   max-width: 1250px;
-  /* padding: 10px; */
+  
   margin: 0 auto;
 }
 
@@ -40,8 +40,7 @@ a {
 }
 
 .header__content {
-  /* display: flex;
-  flex-direction: column; */
+ 
   justify-content: center;
   margin: auto 20px;
   align-items: center;
@@ -96,11 +95,6 @@ a {
 }
 
 .header__img img{
-  /* background-image: url(images1/MicrosoftTeams-image\ \(5\).png);
-  background-size: cover;
-  background-position: center;
-  max-width: 500px;
-  background-repeat: no-repeat; */
   max-height: 700px;
   max-width: 500px;
   align-items: center;
